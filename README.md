@@ -1,2 +1,2 @@
-# cocicemac
+# Cocicemac
 Web page for  Cocicemac AC 
